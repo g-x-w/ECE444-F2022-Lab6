@@ -1,5 +1,9 @@
 # ECE444-F2022-Lab6
 
+This is a repo replicating the example in: https://github.com/mjhea0/flaskr-tdd
+
+Heroku Deployed web app: https://fierce-ridge-60710.herokuapp.com/
+
 ## Group Project Test Cases
 
 https://github.com/ECE444-2022Fall/project-1-web-application-design-education-pathways-group-8-8ball/blob/main/Education_Pathways/tests/test_app.py#L149-L172
